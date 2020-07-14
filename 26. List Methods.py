@@ -9,3 +9,7 @@ print(numbers)
 numbers =[2,3,5,4,7,8,9]
 numbers.remove(5)
 print(numbers)
+
+numbers =[2,3,5,4,7,8,9]
+numbers.clear()
+print(numbers)
