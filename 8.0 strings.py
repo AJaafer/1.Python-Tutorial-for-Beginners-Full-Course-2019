@@ -1,2 +1,2 @@
-course = "python for beginers"
+course = "python for beginners"
 print(course)
