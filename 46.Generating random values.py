@@ -4,3 +4,7 @@ for i in range (4):
 
 for i in range (4):
     print(random.random())
+
+members = ["mark", "lusala", "sailas","faith","sheila","kilmon"]
+pastors = random.choice(members)
+print(pastors)
