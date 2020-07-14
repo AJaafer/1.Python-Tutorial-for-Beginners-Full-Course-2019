@@ -34,5 +34,5 @@ print(numbers)
 numbers =[2,3,5,4,7,5,5,8,9]
 numbers.sort()
 numbers.reverse()
-print(numbers
+print(numbers)
 
