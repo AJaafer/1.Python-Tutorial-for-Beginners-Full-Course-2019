@@ -15,3 +15,10 @@ numbers = [1,4,778,9,2,3,5]
 maximum = find_max(numbers)
 print(maximum)
 
+def find_max (numbers):
+    maximum = numbers [0]
+    for number in numbers:
+        if number>maximum:
+         maximum=number
+    return maximum
+
